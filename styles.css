@@ -5,7 +5,7 @@
   }
 
   .card {
-    background-color: #f8f8f8;
+    background-color: #14497f;
     border-radius: 4px;
     box-shadow: 0rem 0.125rem 1.5rem rgb(0 0 0 / 12%);
     max-width: 21.1875rem;
@@ -28,7 +28,7 @@
   }
 
   img {
-    border-bottom: 0.25rem solid #fc0;
+    border-bottom: 0.25rem solid rgb(7, 7, 7);
     border-radius: 0.25rem 0.25rem 0 0;
     height: auto;
     object-fit: cover;
